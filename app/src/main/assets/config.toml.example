@@ -1,0 +1,13 @@
+# frpc.toml
+serverAddr = "x.x.x.x"
+serverPort = 7000
+
+# the line below can not be deleted
+log.to = "./frpc.log"
+
+[[proxies]]
+name = "ssh"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 22
+remotePort = 6000

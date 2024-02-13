@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FRP</string>
+    <string name="config_save_button">保存</string>
+    <string name="config_save_button_not">不保存</string>
+    <string name="about_app_version">V1.0.0</string>
+    <string name="about_copyright">V1.0.0</string>
+    <string name="main_title">frp for Android</string>
+    <string name="main_toggle_frp">切换开关</string>
+    <string name="main_setting_button">设置</string>
+    <string name="main_about_button">关于</string>
+    <string name="main_frp_log">frp日志</string>
+    <string name="main_frp_log_refresh_button">刷新</string>
+    <string name="main_frp_log_clear_button">清除</string>
+    <string name="main_frp_log_empty">无日志</string>
+</resources>
